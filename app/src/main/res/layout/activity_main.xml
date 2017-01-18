@@ -31,7 +31,7 @@
 
         <TextView
             style="@style/textStyleOne"
-            android:text="From Kiki" />
+            android:text="From Kiki"/>
 
 
     </LinearLayout>

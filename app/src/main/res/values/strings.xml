@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Vjezba #1</string>
+    <string name="happy">Happy</string>
+    <string name="birthday">Birthday</string>
+    <string name="dear">dear!</string>
+    <string name="from_kiki">From Kiki</string>
 </resources>

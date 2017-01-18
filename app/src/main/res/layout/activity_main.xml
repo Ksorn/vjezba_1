@@ -7,8 +7,8 @@
 
     <LinearLayout xmlns:tools="http://schemas.android.com/tools"
         android:id="@+id/activity_main"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:background="@color/colorBlueTwo"
         android:orientation="vertical"
         android:paddingBottom="@dimen/activity_vertical_margin"
@@ -19,19 +19,19 @@
 
         <TextView
             style="@style/textStyleOne"
-            android:text="Happy" />
+            android:text="@string/happy" />
 
         <TextView
             style="@style/textStyleOne"
-            android:text="Birthday" />
+            android:text="@string/birthday" />
 
         <TextView
             style="@style/textStyleOne"
-            android:text="dear!" />
+            android:text="@string/dear" />
 
         <TextView
             style="@style/textStyleOne"
-            android:text="From Kiki"/>
+            android:text="@string/from_kiki"/>
 
 
     </LinearLayout>

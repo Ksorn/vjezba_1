@@ -1,2 +1,2 @@
-# vjzeba_1
+# vjezba_1
 vjezbe
